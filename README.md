@@ -8,7 +8,6 @@ Output is in both raw numerical and sentence format.
 Example output for input parameter of 5 days:
 
 px for SP500, 2752.06, is 3.03859 std dev below moving average, 2804.51
-
 2826.06, 2802.39, 2783.02, 2788.86, 2752.06,
 MA: 2790.48
 sDev: 24.2576
