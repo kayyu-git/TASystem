@@ -13,4 +13,4 @@ px for SP500, 2752.06, is 3.03859 std dev below moving average, 2804.51
 MA: 2790.48
 sDev: 24.2576
 - - - - - - - - - - - - - - - -
-Supported stock analysis results: Moving Average, Standard Deviation
+Supported stock analysis results: Exponential Moving Average, Moving Average, Standard Deviation
